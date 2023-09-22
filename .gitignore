@@ -130,3 +130,5 @@ dmypy.json
 
 #created xml files
 *.xml
+*.txt
+ensdf_files/
